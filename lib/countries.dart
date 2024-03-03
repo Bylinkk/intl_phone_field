@@ -2293,8 +2293,8 @@ const List<Country> countries = [
     flag: "🇬🇫",
     code: "GF",
     dialCode: "594",
-    minLength: 15,
-    maxLength: 15,
+    minLength: 9,
+    maxLength: 9,
   ),
   Country(
     name: "French Polynesia",
@@ -2665,8 +2665,8 @@ const List<Country> countries = [
     flag: "🇬🇵",
     code: "GP",
     dialCode: "590",
-    minLength: 15,
-    maxLength: 15,
+    minLength: 9,
+    maxLength: 9,
   ),
   Country(
     name: "Guam",
@@ -4246,8 +4246,8 @@ const List<Country> countries = [
     flag: "🇲🇶",
     code: "MQ",
     dialCode: "596",
-    minLength: 15,
-    maxLength: 15,
+    minLength: 9,
+    maxLength: 9,
   ),
   Country(
     name: "Mauritania",
